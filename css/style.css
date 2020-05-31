@@ -1,0 +1,141 @@
+﻿.myrows{
+    border: 3px solid green;
+    padding: 5px;
+  }
+  .mycols{
+    border: 3px solid red;
+  }
+  .mycontainer{
+    background-color: aqua;
+  }
+  #topHeader{
+    border-bottom: 1px solid #ebebeb;
+    background-color: #badc58;
+  }
+  #topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+  }
+ 
+ 
+  .container-fluid{
+      padding-left: 0 ;
+      padding-right: 0;
+      
+  }
+  nav ul li a{
+      font-size: 1.1rem;
+      font-weight: bolder;
+      font-style: oblique;
+  }
+  /*start footer*/
+  .full-footer {
+    background-color:#006266;
+  }
+  .full-footer h1{
+    font-style: italic;
+    color: white;
+  }
+  .top-footer p {
+    color: white;
+  }
+  .top-footer a {
+    color:white;
+    font-weight: 600;
+  }
+  .top-footer h3{
+    color:white;
+  }
+  .bottom-footer{
+    background-color: #0a3d62;
+  }
+  .bottom-footer p{
+    color:white;
+  }
+  /*end footer*/
+  /*home page first hero section*/
+ .top-hero-section{
+   background-color: #3498db;
+   color: white;
+
+  }
+  .top-hero-section a {
+    color: white;
+    font-weight: 600;
+ 
+   }
+   .qualities-img{
+     width: 200px;
+   }
+  /*end home page hero section*/
+  /*start third home page section*/
+  .requirements-section{
+    background-color: #004d80;
+    color: white;
+  }
+
+  .secondcont{
+   background-color: #badc58;
+  }
+   /*end third home page section*/
+   .fourth h3{
+    font-weight: 900;
+   }
+   /*start fifth home page section*/
+   .home-newsletter{
+    background-color: #004d80;
+    color: white;
+
+   }
+   .home-newsletter .form-control{
+   height: 50px;
+   border-color: transparent;
+   border-radius: 20px 0 0 20px;
+
+   }
+   .home-newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background-color: #243c4f;
+    color: #fff;
+    }
+  /*end fifth home page section*/
+   /*start seventh home page section*/
+   .clients-section{
+     background-color: #f0f0f0;
+     
+
+   }
+    /*end seventh home page section*/
+  /*start about us page section*/
+    .breadcrumbs-section{
+      background-color: #e9ecef;
+
+    }
+  /*end about us page section*/
+   /*start contact us page section*/
+   .address p{
+    font-weight: 600;
+  }
+/*end contact us page section*/
+.bar{
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-radius: 17px;
+  border: 1px solid rgb(63, 71, 80);
+}
+.marqu{
+  color: #EA2027;
+  font-weight: 700;
+
+}
+.para{
+  color: #f53b57;
+}
+
+
+
+
+
